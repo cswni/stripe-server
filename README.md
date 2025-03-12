@@ -96,7 +96,7 @@ docker-compose -f stripeserver.yml up
 
 ## 📝 License
 
-ISC License
+MIT License
 
 ## 👤 Author
 

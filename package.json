@@ -1,0 +1,19 @@
+{
+  "name": "stripe-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Carlos Andres Perez",
+  "license": "ISC",
+  "description": "Stripe Local Server",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "stripe": "^17.7.0"
+  }
+}
